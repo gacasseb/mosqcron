@@ -1,0 +1,17 @@
+DONE
+2023-06-13 14:51:00
+1-Aedes_aegypti
+2-Aedes_aegypti
+3-Aedes_aegypti
+4-Aedes_aegypti
+5-Aedes_aegypti
+6-Aedes_aegypti
+7-Aedes_aegypti
+8-Aedes_aegypti
+9-Aedes_aegypti
+10-OTHERS
+11-OTHERS
+12-OTHERS
+13-OTHERS
+14-OTHERS
+15-OTHERS
